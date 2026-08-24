@@ -1,0 +1,8 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="12" fill="#123D32"/>
+  <rect x="3.5" y="3.5" width="57" height="57" rx="9" stroke="#C9A35F"/>
+  <circle cx="32" cy="32" r="19" stroke="#5AABD0" stroke-width="1.5" opacity="0.72"/>
+  <path d="M10 36C21 24 42 22 55 30" stroke="#D4783F" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="53" cy="29" r="2.4" fill="#D4783F"/>
+  <text x="32" y="39" fill="#F1F0E8" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" text-anchor="middle" letter-spacing="-1">IW</text>
+</svg>
